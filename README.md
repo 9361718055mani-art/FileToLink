@@ -36,7 +36,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Quick Deploy](#quick-deploy)
-    - [Deploy to Koyeb](#deploy-to-koyeb)
+    - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
     - [Deploy to Render](#deploy-to-render)
     - [Deploy to Railway](#deploy-to-railway)
   - [Reverse Proxy Setup](#reverse-proxy-setup)
@@ -547,3 +547,4 @@ This project is not affiliated with Telegram. Use it responsibly and in complian
   <a href="https://github.com/fyaz05/FileToLink/issues/new">Report Bug</a> •
   <a href="https://github.com/fyaz05/FileToLink/issues/new">Request Feature</a>
 </p>
+
